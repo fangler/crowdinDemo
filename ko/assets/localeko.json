@@ -1,0 +1,19 @@
+{
+	"homescreen_title": "Partying",
+	"placeholder_example": "prefix %1 %2 postfix",
+	"chat": "Chat",
+	"discovery": "Discovery",
+	"blocked_by_the_administrator": "You are banned from taking orders until",
+	"notice": "Note",
+	"invite_condition": "Verify your identity before accepting orders",
+	"cancel": "Cancel",
+	"sure": "Confirm",
+	"not_automatically_recover": "Do not restore automatically",
+	"one_hour": "1 hour",
+	"two_hours": "2 hours",
+	"six_hours": "6 hours",
+	"twn_hours": "12 hours",
+	"one_day": "1 day",
+	"three_days": "3 days",
+	"seven_days": "7 days"
+}
